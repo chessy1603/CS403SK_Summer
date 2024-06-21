@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS403_Summer.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66f40e06d71289d0a7825211bc796383710d00c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS403_Summer.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS403_Summer.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]

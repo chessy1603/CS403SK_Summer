@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS403_Summer.Module", "CS40
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS403_Summer.Blazor.Server", "CS403_Summer.Blazor.Server\CS403_Summer.Blazor.Server.csproj", "{A14D0D50-8EBC-4D6E-ABD4-7CAB6865A910}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApplication1", "DXApplication1\DXApplication1.csproj", "{280BE95E-2DF6-4990-B374-21CD232D299A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,12 @@ Global
 		{A14D0D50-8EBC-4D6E-ABD4-7CAB6865A910}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
 		{A14D0D50-8EBC-4D6E-ABD4-7CAB6865A910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A14D0D50-8EBC-4D6E-ABD4-7CAB6865A910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280BE95E-2DF6-4990-B374-21CD232D299A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280BE95E-2DF6-4990-B374-21CD232D299A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280BE95E-2DF6-4990-B374-21CD232D299A}.EasyTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{280BE95E-2DF6-4990-B374-21CD232D299A}.EasyTest|Any CPU.Build.0 = Debug|Any CPU
+		{280BE95E-2DF6-4990-B374-21CD232D299A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280BE95E-2DF6-4990-B374-21CD232D299A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

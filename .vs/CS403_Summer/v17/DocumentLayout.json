@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bourbon\\source\\repos\\CS403_Summer\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ilove\\CS403SK_Summer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB3421-7F58-4DD6-B038-7D54FCE9EA02}|CS403_Summer.Module\\CS403_Summer.Module.csproj|c:\\users\\ilove\\cs403sk_summer\\cs403_summer.module\\cs403_summer.module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97FB3421-7F58-4DD6-B038-7D54FCE9EA02}|CS403_Summer.Module\\CS403_Summer.Module.csproj|solutionrelative:cs403_summer.module\\cs403_summer.module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +14,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS403_Summer.Module.csproj",
+              "DocumentMoniker": "C:\\Users\\ilove\\CS403SK_Summer\\CS403_Summer.Module\\CS403_Summer.Module.csproj",
+              "RelativeDocumentMoniker": "CS403_Summer.Module\\CS403_Summer.Module.csproj",
+              "ToolTip": "C:\\Users\\ilove\\CS403SK_Summer\\CS403_Summer.Module\\CS403_Summer.Module.csproj",
+              "RelativeToolTip": "CS403_Summer.Module\\CS403_Summer.Module.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T05:07:57.624Z",
+              "EditorCaption": ""
             }
           ]
         }

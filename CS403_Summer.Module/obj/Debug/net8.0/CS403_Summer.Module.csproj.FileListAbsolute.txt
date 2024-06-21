@@ -1,0 +1,13 @@
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\bin\Debug\net8.0\CS403_Summer.Module.deps.json
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\bin\Debug\net8.0\CS403_Summer.Module.dll
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\bin\Debug\net8.0\CS403_Summer.Module.pdb
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.csproj.AssemblyReference.cache
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.AssemblyInfoInputs.cache
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.AssemblyInfo.cs
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.csproj.CoreCompileInputs.cache
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.sourcelink.json
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.dll
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\refint\CS403_Summer.Module.dll
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\CS403_Summer.Module.pdb
+C:\Users\ilove\CS403SK_Summer\CS403_Summer.Module\obj\Debug\net8.0\ref\CS403_Summer.Module.dll
